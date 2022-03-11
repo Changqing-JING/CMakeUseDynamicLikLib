@@ -1,4 +1,4 @@
-#include "lib1.h"
+#include "lib/lib1.h"
 
 int main(){
     Lib1 lib1;
